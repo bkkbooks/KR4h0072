@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4h0072/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部八
+  hash: sha256:2ca6b36e125227017052aabb38e83ed63103fdf152cf0be95bdfb58f63de9d79
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0072_WYG_000-1a, image: WYG1365/WYG1365-0593a.png}
+body:
+  text: 谷音總集類提要臣等謹案谷音二巻元杜本編本有清江碧嶂集已著録是編末有張榘䟦稱右詩一巻凡二十三人無名者四人共一百首明毛晉䟦則稱谷音二巻宋末逸民詩也凡二十有九人詩百篇此本上巻凡十人詩五十首下巻凡十五人無名者五人詩五十一首當為三十人詩一百一首與二䟦皆不合其釐為二巻亦不知始自何人也毎人各載小傳惟柯芝柯茂謙父子共一傳楊應登楊霖祖孫共一傳凡小傳二十有八其間如王澮程自修冉琇元吉孟鯁皆金元間人張璜以牙兵戰沒汪涯以不草露布為賈似道所殺毛晉以為皆宋逸民亦約畧大概言之耳本所著清江碧嶂集詞意麤淺不稱其名而是集所録乃皆古直悲凉風格遒上無宋末江湖齷齪之習其人又皆仗節守義之士足為詩重王士禎論詩絶句曰誰嗣篋中冰雪句谷音一巻獨錚錚其品題當矣乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:dcfc8f7d57c45de56c6583cdca59e7f50cbce082fb26e9d5881f5a39550f4ee7
+metadata:
+  title: 谷音
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-11 22:19:11.168889'
+  source:
+    repository: kanripo
+    path: KR4h0072/KR4h0072_000.txt
+hash: sha256:1a4546ba7219e48803e843dbcb374ad53e461b33d2b9288980fe4e5114247dcd

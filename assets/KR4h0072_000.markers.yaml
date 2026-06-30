@@ -1,0 +1,132 @@
+canonical_identifier: bkk:krp/KR4h0072/bkk/v1/markers/0
+seq: 0
+markers:
+  front:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4h0072_SBCK_000-1a01}
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書集部八}
+  - {type: page-break, offset: 0, content: '', id: KR4h0072_WYG_000-1a, image: WYG1365/WYG1365-0593a.png}
+  - {type: variant, offset: 2, length: 0, content: '', WYG: 總集類提要臣等謹案谷音二巻元杜本編本有清江碧嶂集已著録是編末有張榘䟦稱右詩一巻凡二十三人無}
+  - {type: variant, offset: 3, length: 4, content: 目王澮六, WYG: 者四人共一百}
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR4h0072_SBCK_000-1a02}
+  - {type: indent, offset: 0, content: 　　, id: KR4h0072_krp_000-bkkind1}
+  - {type: indent, offset: 4, content: 　, id: KR4h0072_krp_000-bkkind2}
+  - {type: variant, offset: 4, length: 1, content: 程, WYG: 明毛晉䟦則稱谷音二巻宋末逸民詩也凡二十有九人詩百篇此本上巻凡十人詩五十首下巻凡十五人無名者五人詩五十一首當為三十人詩一百一首與二䟦皆不合其釐為二巻亦不知始}
+  - {type: page-break, offset: 4, content: '', id: KR4h0072_WYG_000-1b, image: WYG1365/WYG1365-0593b.png}
+  - {type: variant, offset: 6, length: 62, content: 脩七首冉琇六首元吉五首孟鯁四首安如山二首王翥五首師嚴六首張琰五首汪涯三首詹夲三首皇甫明子三首丁開四首鮑輗七首崔璆三首魚潜五首, WYG: 何人也毎人各載小傳惟}
+  - {type: substitution, offset: 6, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0760}}
+  - {type: 'kr:newline', offset: 9, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 9, content: '', id: KR4h0072_SBCK_000-1a03}
+  - {type: indent, offset: 9, content: 　　, id: KR4h0072_krp_000-bkkind3}
+  - {type: indent, offset: 13, content: 　, id: KR4h0072_krp_000-bkkind4}
+  - {type: 'kr:newline', offset: 17, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 17, content: '', id: KR4h0072_SBCK_000-1a04}
+  - {type: indent, offset: 17, content: 　　, id: KR4h0072_krp_000-bkkind5}
+  - {type: indent, offset: 21, content: 　, id: KR4h0072_krp_000-bkkind6}
+  - {type: 'kr:newline', offset: 26, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 26, content: '', id: KR4h0072_SBCK_000-1a05}
+  - {type: indent, offset: 26, content: 　　　, id: KR4h0072_krp_000-bkkind7}
+  - {type: indent, offset: 30, content: 　, id: KR4h0072_krp_000-bkkind8}
+  - {type: 'kr:newline', offset: 34, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 34, content: '', id: KR4h0072_SBCK_000-1a06}
+  - {type: indent, offset: 34, content: 　　　, id: KR4h0072_krp_000-bkkind9}
+  - {type: indent, offset: 38, content: 　, id: KR4h0072_krp_000-bkkind10}
+  - {type: 'kr:newline', offset: 42, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 42, content: '', id: KR4h0072_SBCK_000-1a07}
+  - {type: indent, offset: 42, content: 　　　, id: KR4h0072_krp_000-bkkind11}
+  - {type: indent, offset: 46, content: 　, id: KR4h0072_krp_000-bkkind12}
+  - {type: 'kr:newline', offset: 52, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 52, content: '', id: KR4h0072_SBCK_000-1a08}
+  - {type: indent, offset: 52, content: 　　　, id: KR4h0072_krp_000-bkkind13}
+  - {type: indent, offset: 56, content: 　, id: KR4h0072_krp_000-bkkind14}
+  - {type: 'kr:newline', offset: 60, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 60, content: '', id: KR4h0072_SBCK_000-1a09}
+  - {type: indent, offset: 60, content: 　　　, id: KR4h0072_krp_000-bkkind15}
+  - {type: indent, offset: 64, content: 　, id: KR4h0072_krp_000-bkkind16}
+  - {type: 'kr:newline', offset: 68, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 68, content: '', id: KR4h0072_SBCK_000-1a10}
+  - {type: indent, offset: 68, content: 　　　, id: KR4h0072_krp_000-bkkind17}
+  - {type: variant, offset: 70, length: 2, content: 三首, WYG: ''}
+  - {type: indent, offset: 72, content: 　, id: KR4h0072_krp_000-bkkind18}
+  - {type: variant, offset: 75, length: 19, content: 二首邵定二首熊與龢二首晏义二首孫璉二首, WYG: 父子共一傳}
+  - {type: 'kr:newline', offset: 77, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 77, content: '', id: KR4h0072_SBCK_000-1a11}
+  - {type: indent, offset: 77, content: 　　　, id: KR4h0072_krp_000-bkkind19}
+  - {type: indent, offset: 81, content: 　, id: KR4h0072_krp_000-bkkind20}
+  - {type: substitution, offset: 83, original: 龢, replacement: 和, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0534}}
+  - {type: 'kr:newline', offset: 86, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 86, content: '', id: KR4h0072_SBCK_000-1b}
+  - {type: 'kr:newline', offset: 86, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 86, content: '', id: KR4h0072_SBCK_000-1b01}
+  - {type: indent, offset: 86, content: 　　　, id: KR4h0072_krp_000-bkkind21}
+  - {type: substitution, offset: 87, original: 义, replacement: 義, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0017}}
+  - {type: indent, offset: 90, content: 　, id: KR4h0072_krp_000-bkkind22}
+  - {type: 'kr:newline', offset: 94, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 94, content: '', id: KR4h0072_SBCK_000-1b02}
+  - {type: indent, offset: 94, content: 　　　, id: KR4h0072_krp_000-bkkind23}
+  - {type: variant, offset: 97, length: 0, content: '', WYG: 楊霖祖孫共一傳凡小傳}
+  - {type: variant, offset: 98, length: 13, content: 首楊雯五首曾童子澈一首番易, WYG: 十有八其間如王澮程自修冉琇元吉孟鯁皆金元間人張璜以牙兵戰沒汪涯以不草露}
+  - {type: indent, offset: 99, content: 　, id: KR4h0072_krp_000-bkkind24}
+  - {type: 'kr:newline', offset: 103, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 103, content: '', id: KR4h0072_SBCK_000-1b03}
+  - {type: indent, offset: 103, content: 　　　, id: KR4h0072_krp_000-bkkind25}
+  - {type: substitution, offset: 106, original: 澈, replacement: 徹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3895}}
+  - {type: indent, offset: 109, content: 　, id: KR4h0072_krp_000-bkkind26}
+  - {type: variant, offset: 112, length: 9, content: 衣一首瀟湘漁父一首, WYG: 為賈似道所殺毛晉以為皆宋逸民亦約畧大概言之耳本所著清江碧嶂集詞意麤淺不稱其名而是集所録乃皆}
+  - {type: page-break, offset: 112, content: '', id: KR4h0072_WYG_000-2a, image: WYG1365/WYG1365-0594a.png}
+  - {type: 'kr:newline', offset: 115, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 115, content: '', id: KR4h0072_SBCK_000-1b04}
+  - {type: indent, offset: 115, content: 　　　, id: KR4h0072_krp_000-bkkind27}
+  - {type: indent, offset: 121, content: 　, id: KR4h0072_krp_000-bkkind28}
+  - {type: variant, offset: 122, length: 7, content: 碑文一首閩清野, WYG: 直悲凉風格遒上無宋末江湖齷齪之習其}
+  - {type: 'kr:newline', offset: 126, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 126, content: '', id: KR4h0072_SBCK_000-1b05}
+  - {type: indent, offset: 126, content: 　　　, id: KR4h0072_krp_000-bkkind29}
+  - {type: variant, offset: 130, length: 8, content: 一首羅浮狂客一首, WYG: 又皆仗節守義之士足為詩重王士禎論詩絶句曰誰嗣篋中冰雪句}
+  - {type: indent, offset: 132, content: 　, id: KR4h0072_krp_000-bkkind30}
+  - {type: 'kr:newline', offset: 138, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl17}
+  - {type: line-break, offset: 138, content: '', id: KR4h0072_SBCK_000-1b06}
+  - {type: variant, offset: 140, length: 3, content: 名目終, WYG: 一巻獨錚錚其品題當矣乾隆四十六年十一月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀}
+  - {type: 'kr:newline', offset: 143, content: '
+
+      ', id: KR4h0072_krp_000-bkkkrnewl18}
+  back: []
+hash: sha256:216ac5b96466073641a917e04594cb071d38e51c6fa17384dc9a8cecd0c38235

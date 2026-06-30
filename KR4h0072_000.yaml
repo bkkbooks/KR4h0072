@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4h0072/krp/v1/juan/0
+seq: 0
+front:
+  text: 谷音名目
+  hash: sha256:2e6aa269adf73db47b5885cdd70c8dcc487656a75ca8e91771c6db0efcae9896
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0072_SBCK_000-1a}
+body:
+  text: 王澮六首程自修七首冉琇六首元吉五首孟鯁四首安如山二首王翥五首師嚴六首張琰五首汪涯三首詹夲三首皇甫明子三首丁開四首鮑輗七首崔璆三首魚潜五首柯芝三首柯茂謙二首邵定二首熊與和二首晏義二首孫璉二首楊應登二首楊雯五首曾童子徹一首番易布衣一首瀟湘漁父一首古碑文一首閩清野人一首羅浮狂客一首谷音名目終
+  hash: sha256:403dbfcfcca9828dd9255a5dabfee709bbf3244f2cc6dbe1531e87e2a2f6523b
+metadata:
+  title: 谷音
+  edition:
+    short: krp
+  base_edition: SBCK
+  date: '2015-09-11 22:19:11.168889'
+  source:
+    repository: kanripo
+    path: KR4h0072/KR4h0072_000.txt
+hash: sha256:f5e34b097fefecd97b36685cbb69fb0aecade4365417de0cbc29c6cca1654244

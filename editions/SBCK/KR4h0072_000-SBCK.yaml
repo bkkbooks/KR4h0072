@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR4h0072/SBCK/v1/juan/0
+seq: 0
+front:
+  text: 谷音名目
+  hash: sha256:2e6aa269adf73db47b5885cdd70c8dcc487656a75ca8e91771c6db0efcae9896
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4h0072_SBCK_000-1a}
+body:
+  text: 王澮六首程自脩七首冉琇六首元吉五首孟鯁四首安如山二首王翥五首師嚴六首張琰五首汪涯三首詹夲三首皇甫明子三首丁開四首鮑輗七首崔璆三首魚潜五首柯芝三首柯茂謙二首邵定二首熊與龢二首晏义二首孫璉二首楊應登二首楊雯五首曾童子澈一首番易布衣一首瀟湘漁父一首古碑文一首閩清野人一首羅浮狂客一首谷音名目終
+  hash: sha256:9f27888fc4d4f9fbc8a287029d35edfc4aa12437ae7ad1c3a8be5b8f08ec357b
+metadata:
+  title: 谷音
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-09-11 22:19:11.168889'
+  source:
+    repository: kanripo
+    path: KR4h0072/KR4h0072_000.txt
+hash: sha256:87609dee24504ab4d39d037fe60ff5b4b0b8ba749345a06e16cc497f0c7dce48
