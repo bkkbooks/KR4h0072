@@ -20,6 +20,7 @@ markers:
   - {type: variant, offset: 4, length: 1, content: 程, WYG: 明毛晉䟦則稱谷音二巻宋末逸民詩也凡二十有九人詩百篇此本上巻凡十人詩五十首下巻凡十五人無名者五人詩五十一首當為三十人詩一百一首與二䟦皆不合其釐為二巻亦不知始}
   - {type: page-break, offset: 4, content: '', id: KR4h0072_WYG_000-1b, image: WYG1365/WYG1365-0593b.png}
   - {type: variant, offset: 6, length: 62, content: 脩七首冉琇六首元吉五首孟鯁四首安如山二首王翥五首師嚴六首張琰五首汪涯三首詹夲三首皇甫明子三首丁開四首鮑輗七首崔璆三首魚潜五首, WYG: 何人也毎人各載小傳惟}
+  - {type: substitution, offset: 6, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: 'kr:newline', offset: 9, content: '
 
       ', id: KR4h0072_krp_000-bkkkrnewl2}
@@ -62,6 +63,7 @@ markers:
   - {type: line-break, offset: 60, content: '', id: KR4h0072_SBCK_000-1a09}
   - {type: indent, offset: 60, content: 　　　, id: KR4h0072_krp_000-bkkind15}
   - {type: indent, offset: 64, content: 　, id: KR4h0072_krp_000-bkkind16}
+  - {type: substitution, offset: 65, original: 潜, replacement: 潛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17753}}
   - {type: 'kr:newline', offset: 68, content: '
 
       ', id: KR4h0072_krp_000-bkkkrnewl9}
@@ -76,6 +78,7 @@ markers:
   - {type: line-break, offset: 77, content: '', id: KR4h0072_SBCK_000-1a11}
   - {type: indent, offset: 77, content: 　　　, id: KR4h0072_krp_000-bkkind19}
   - {type: indent, offset: 81, content: 　, id: KR4h0072_krp_000-bkkind20}
+  - {type: substitution, offset: 83, original: 龢, replacement: 和, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16720}}
   - {type: 'kr:newline', offset: 86, content: '
 
       ', id: KR4h0072_krp_000-bkkkrnewl11}
@@ -85,6 +88,7 @@ markers:
       ', id: KR4h0072_krp_000-bkkkrnewl12}
   - {type: line-break, offset: 86, content: '', id: KR4h0072_SBCK_000-1b01}
   - {type: indent, offset: 86, content: 　　　, id: KR4h0072_krp_000-bkkind21}
+  - {type: substitution, offset: 87, original: 义, replacement: 義, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16179}}
   - {type: indent, offset: 90, content: 　, id: KR4h0072_krp_000-bkkind22}
   - {type: 'kr:newline', offset: 94, content: '
 
@@ -99,6 +103,7 @@ markers:
       ', id: KR4h0072_krp_000-bkkkrnewl14}
   - {type: line-break, offset: 103, content: '', id: KR4h0072_SBCK_000-1b03}
   - {type: indent, offset: 103, content: 　　　, id: KR4h0072_krp_000-bkkind25}
+  - {type: substitution, offset: 106, original: 澈, replacement: 徹, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20178}}
   - {type: indent, offset: 109, content: 　, id: KR4h0072_krp_000-bkkind26}
   - {type: variant, offset: 112, length: 9, content: 衣一首瀟湘漁父一首, WYG: 為賈似道所殺毛晉以為皆宋逸民亦約畧大概言之耳本所著清江碧嶂集詞意麤淺不稱其名而是集所録乃皆}
   - {type: page-break, offset: 112, content: '', id: KR4h0072_WYG_000-2a, image: WYG1365/WYG1365-0594a.png}
@@ -125,4 +130,4 @@ markers:
 
       ', id: KR4h0072_krp_000-bkkkrnewl18}
   back: []
-hash: sha256:67d7dd4b25cd45c85952213ac18ea5076026a8f34ac0cf60de48a5434867783f
+hash: sha256:2188ead19950fd12af786eb7484f739bdb8d484c348e62f5c6f0c6166b7462a2
