@@ -224,6 +224,7 @@ markers:
   - {type: variant, offset: 463, length: 1, content: 脩, WYG: 修}
   - {type: substitution, offset: 463, original: 脩, replacement: 修, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16957}}
   - {type: punctuation, offset: 466, content: (, id: KR4h0072_krp_001-bkkpn1}
+  - {type: voice, offset: 466, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 468, content: ), id: KR4h0072_krp_001-bkkpn2}
   - {type: 'kr:newline', offset: 468, content: '
 
@@ -464,6 +465,7 @@ markers:
   - {type: substitution, offset: 917, original: 瑯, replacement: 琅, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17265}}
   - {type: substitution, offset: 921, original: 温, replacement: 溫, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20795}}
   - {type: punctuation, offset: 923, content: (, id: KR4h0072_krp_001-bkkpn3}
+  - {type: voice, offset: 923, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 925, content: ), id: KR4h0072_krp_001-bkkpn4}
   - {type: 'kr:newline', offset: 925, content: '
 
@@ -651,6 +653,7 @@ markers:
   - {type: line-break, offset: 1267, content: '', id: KR4h0072_SBCK_001-4b09}
   - {type: indent, offset: 1267, content: 　　, id: KR4h0072_krp_001-bkkind28}
   - {type: punctuation, offset: 1273, content: (, id: KR4h0072_krp_001-bkkpn5}
+  - {type: voice, offset: 1273, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 1275, content: ), id: KR4h0072_krp_001-bkkpn6}
   - {type: 'kr:newline', offset: 1275, content: '
 
@@ -854,6 +857,7 @@ markers:
   - {type: line-break, offset: 1657, content: '', id: KR4h0072_SBCK_001-6a01}
   - {type: indent, offset: 1657, content: 　, id: KR4h0072_krp_001-bkkind37}
   - {type: punctuation, offset: 1663, content: (, id: KR4h0072_krp_001-bkkpn7}
+  - {type: voice, offset: 1663, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 1665, content: ), id: KR4h0072_krp_001-bkkpn8}
   - {type: 'kr:newline', offset: 1665, content: '
 
@@ -993,6 +997,7 @@ markers:
   - {type: line-break, offset: 1945, content: '', id: KR4h0072_SBCK_001-6b10}
   - {type: indent, offset: 1945, content: 　　, id: KR4h0072_krp_001-bkkind44}
   - {type: punctuation, offset: 1952, content: (, id: KR4h0072_krp_001-bkkpn9}
+  - {type: voice, offset: 1952, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 1954, content: ), id: KR4h0072_krp_001-bkkpn10}
   - {type: 'kr:newline', offset: 1954, content: '
 
@@ -1174,6 +1179,7 @@ markers:
   - {type: line-break, offset: 2316, content: '', id: KR4h0072_SBCK_001-7b10}
   - {type: indent, offset: 2316, content: 　　, id: KR4h0072_krp_001-bkkind51}
   - {type: punctuation, offset: 2322, content: (, id: KR4h0072_krp_001-bkkpn11}
+  - {type: voice, offset: 2322, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 2324, content: ), id: KR4h0072_krp_001-bkkpn12}
   - {type: 'kr:newline', offset: 2324, content: '
 
@@ -1740,6 +1746,7 @@ markers:
   - {type: indent, offset: 3419, content: 　　, id: KR4h0072_krp_001-bkkind75}
   - {type: punctuation, offset: 3425, content: (, id: KR4h0072_krp_001-bkkpn13}
   - {type: variant, offset: 3425, length: 1, content: 三, WYG: 四}
+  - {type: voice, offset: 3425, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 3427, content: ), id: KR4h0072_krp_001-bkkpn14}
   - {type: 'kr:newline', offset: 3427, content: '
 
@@ -1857,4 +1864,4 @@ markers:
       ', id: KR4h0072_krp_001-bkkkrnewl261}
   - {type: page-break, offset: 3668, content: '', id: KR4h0072_WYG_001-16b, image: WYG1365/WYG1365-0602b.png}
   back: []
-hash: sha256:1f13bc78004165911e989a9e8c63a4f00eb21440b723bdaf4f1a90cca5e34bf5
+hash: sha256:577a725ae82f20dadadacef4997613faf883d4424fe46958145031f8a1a3b759
